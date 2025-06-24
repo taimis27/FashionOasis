@@ -24,8 +24,8 @@ Database
 
 Team
 - Russel Jay Dela Vega – Project Manager
-- Zerylyn Siena – Programmer
-- Edson Añana – Programmer
+- Zerylyn Siena – Backend Developer
+- Edson Añana – Frontend Developer
 - Roseann Hernan – System Analyst
 - Joana Borigas – System Analyst
 - Chinna Mae Garbo – Technical Writer
