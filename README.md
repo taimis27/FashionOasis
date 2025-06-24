@@ -30,5 +30,4 @@ Roseann Hernan – System Analyst
 Joana Borigas – System Analyst
 Chinna Mae Garbo – Technical Writer
 
-License
 This project is for educational purposes only. A partial fulfillment under the subject Integrative Programming and Technologies 1.
